@@ -1,5 +1,3 @@
-# Silkroad-Online-Second-Password-System
-
 # Silkroad Online Second Password System
 
 ## Story
