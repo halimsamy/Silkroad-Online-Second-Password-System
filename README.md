@@ -8,7 +8,7 @@ and make it manual-login, And the second is to make manual-login at first time s
 then use it to re-login again and again and ... again.
 
 After a lot of RE work i found that the passcode was encrypted by Silkroad Blowfish that was created by 'pushedx'
-as a part of Silkroad Security Api but with a different key, So lets dig in! and start coding.
+as a part of Silkroad Security Api but with a different key, So let's dig in! and start coding.
 
 ## ASM Look
 When you try to trace the passcode encryption progress it's a good idea to start from the Click Button Event
