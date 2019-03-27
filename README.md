@@ -50,7 +50,7 @@ and trace a string like 'The passcode must be between 6-8 digits.', If you trace
 ```
 
 I added some comments to make it easy to understand, From this 
-Let's convert it to C++ / C# Code.
+Let's convert it to C# Code.
 
 # Codes
 
