@@ -13,6 +13,7 @@ as a part of Silkroad Security Api but with a different key, So let's dig in! an
 ## ASM Look
 When you try to trace the passcode encryption progress it's a good idea to start from the Click Button Event
 and trace a string like 'The passcode must be between 6-8 digits.', If you trace it right your debugger should land here:
+
 (Client Version: 1.567)
 
 ```
